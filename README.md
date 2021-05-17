@@ -9,7 +9,10 @@ Code that implements kinematics to find shape of active cannula with torsional c
 5. TkAgg (for graph plotting): sudo apt-get install python3.7-tk 
 
 ## To run
-git clone 
 ```
-
+$ git clone https://github.com/ajaydxb97/DirectedResearch-ActiveCannulaKinematics.git
+```
+```
+$ cd DirectedResearch-ActiveCannulaKinematics
+$ python3 activeCannulaKinematics.py
 ```
