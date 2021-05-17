@@ -7,3 +7,9 @@ Code that implements kinematics to find shape of active cannula with torsional c
 3. scipy
 4. matplotlib
 5. TkAgg (for graph plotting): sudo apt-get install python3.7-tk 
+
+## To run
+git clone 
+```
+
+```
